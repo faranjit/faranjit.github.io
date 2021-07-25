@@ -15,5 +15,6 @@ Before start renewing the app we decided to use MVVM pattern to apply Clean Arch
   * Android Architecture Components
   * Android Jetpack Libraries
   * Room
+  * Gson
 
 My main responsibilites are developing register and login, user verification, dashboard, account applications, KYC(Know Your Customer) and integrating third party libraries.
