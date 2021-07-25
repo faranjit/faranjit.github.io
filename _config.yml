@@ -3,7 +3,7 @@
 title: Bulent Turkmen
 description: software engineer
 
-baseurl: "/faranjit.github.io" #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "/" #custom url to be used instead of GitHub repository
 email: "trkmen.blent@gmail.com"
 
