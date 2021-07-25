@@ -13,12 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "bulent-turkmen-749a5655"
+github: "faranjit"
 
 highlighter: rouge
 markdown: kramdown

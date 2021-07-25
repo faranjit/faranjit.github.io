@@ -7,8 +7,13 @@ profile:
 published: true
 ---
 
-[Faranjit](https://github.com/faranjit/faranjit.github.io){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi,
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My name is Bulent. I develop software since 2011.
+I am senior at android development but kinda junior at backend development :)
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I worked for startups and enterprise companies. 
+Currently, I work at a banking company named Akbank which is one of the biggest in Turkey.
+Kotlin and Java are my main languages that I often use.
+But I have also some experience in Go, JavaScript, Spring Framework.
+You can find my projects on [Projects](/projects) tab.
