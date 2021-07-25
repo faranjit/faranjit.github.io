@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GamerCard
-description: an app for children
+description: android application developed with Java
 ---
 Google play link is [here](https://play.google.com/store/apps/details?id=com.gamercard.android){:target="_blank"}.
 
