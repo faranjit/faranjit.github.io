@@ -1,13 +1,13 @@
 ---
 layout: post
 title: GamerCard
-description: android application developed with Java
+description: android application developed using Java
 ---
 Google play link is [here](https://play.google.com/store/apps/details?id=com.gamercard.android){:target="_blank"}.
 
-This application is for children and their parents. In this app there are tasks offered by parents or the system to be completed by children. With this app, parents can easily send their child money, easily track their expenses and the tasks they have accomplished.
+This application is for children and their parents. Parents define tasks and children can get points by completing them. Parents can easily send their child allowances, track their expenses and the tasks they have completed.
 
-This app developed with Java and based on MVVM Clean Architecture. Some libraries and tools that we use are listed below:
+This app is developed with Java and based on MVVM Clean Architecture. Some libraries and tools that we used:
   * Retrofit
   * Dagger 2
   * Glide

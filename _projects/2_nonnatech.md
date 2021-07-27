@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nonnatech
-description: healthcare portal developed with Go
+description: healthcare portal developed using Go
 ---
 [Nonnatech](https://app.nonnatech.com/){:target="_blank"} is one of the only platforms able to successfully integrate many different devices to provide real-time monitoring and automatic data transfer to clinicians, family members, and home care staff that can be passively collected.
 

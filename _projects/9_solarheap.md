@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Solarheap
-description: marketplace on solar energy area
+description: solar energy marketplace
 ---
-[Solarheap](http://solarheap.com/){:target="_blank"} was a startup in solar energy area. The main purpose is meeting investors for solar projects.
+[Solarheap](http://solarheap.com/){:target="_blank"} was a startup in solar energy. The main purpose is meeting investors for solar projects.
 
-The site had these main features:
+The main features of the site:
   * Project owners login
   * Investors' login
   * Create project
